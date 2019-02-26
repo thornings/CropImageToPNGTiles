@@ -1,0 +1,14 @@
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\CropToPNGTiles.exe
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\CropToPNGTiles.deps.json
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\CropToPNGTiles.runtimeconfig.json
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\CropToPNGTiles.runtimeconfig.dev.json
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\CropToPNGTiles.dll
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\win-x86\CropToPNGTiles.pdb
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\win-x86\CropToPNGTiles.csprojAssemblyReference.cache
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\win-x86\CropToPNGTiles.csproj.CoreCompileInputs.cache
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\win-x86\CropToPNGTiles.AssemblyInfoInputs.cache
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\win-x86\CropToPNGTiles.AssemblyInfo.cs
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\win-x86\CropToPNGTiles.dll
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\win-x86\CropToPNGTiles.pdb

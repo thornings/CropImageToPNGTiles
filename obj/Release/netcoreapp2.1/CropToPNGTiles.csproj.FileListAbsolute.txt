@@ -1,0 +1,11 @@
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\CropToPNGTiles.deps.json
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\CropToPNGTiles.runtimeconfig.json
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\CropToPNGTiles.runtimeconfig.dev.json
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\CropToPNGTiles.dll
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\bin\Release\netcoreapp2.1\CropToPNGTiles.pdb
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\CropToPNGTiles.csprojAssemblyReference.cache
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\CropToPNGTiles.csproj.CoreCompileInputs.cache
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\CropToPNGTiles.AssemblyInfoInputs.cache
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\CropToPNGTiles.AssemblyInfo.cs
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\CropToPNGTiles.dll
+C:\Develop\csharp\CropToPNGTiles\CropToPNGTiles\CropToPNGTiles\obj\Release\netcoreapp2.1\CropToPNGTiles.pdb

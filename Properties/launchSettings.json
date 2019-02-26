@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CropToPNGTiles": {
+      "commandName": "Project",
+      "commandLineArgs": "\"spritesheet2.png\" 24"
+    }
+  }
+}
